@@ -1,0 +1,492 @@
+{
+    "NF06": {
+        "nomcomplet": "Pratique de la programmation",
+        "Description": "notions de C / Notions de Python et r\u00e9alisation de projets",
+        "Effectif": 24,
+        "Creneaux": [
+            {
+                "Type": "Cours",
+                "Jour": "1",
+                "HeureD": "14:00",
+                "HeureF": "16:00",
+                "Semaine": "tout"
+            },
+            {
+                "Type": "TD",
+                "Jour": "5",
+                "HeureD": "16:00",
+                "HeureF": "19:00",
+                "Semaine": "B"
+            }
+        ]
+    },
+    "MM01": {
+        "nomcomplet": "Multim\u00e9dia : Du projet \u00e0 la r\u00e9alisation",
+        "Description": "planification de projet / int\u00e9gration de contraintes associ\u00e9es \u00e0 un projet web / conna\u00eetre les aspects juridiques li\u00e9s aux sources et \u00e0 l'activit\u00e9 de publication.",
+        "Effectif": 12,
+        "Creneaux": [
+            {
+                "Type": "TD",
+                "Jour": "2",
+                "HeureD": "14:00",
+                "HeureF": "16:00",
+                "Semaine": "B"
+            },
+            {
+                "Type": "TP",
+                "Jour": "2",
+                "HeureD": "16:00",
+                "HeureF": "18:00",
+                "Semaine": "B"
+            },
+            {
+                "Type": "Cours",
+                "Jour": "1",
+                "HeureD": "12:00",
+                "HeureF": "13:00",
+                "Semaine": "tout"
+            }
+        ]
+    },
+    "MS11": {
+        "nomcomplet": "Mesure physique et instrumntation",
+        "Description": "Compr\u00e9hension des diff\u00e9rences entre mesure directe et indirecte / pr\u00e9sentation de r\u00e9sultats / Notion de corr\u00e9lation, ...",
+        "Effectif": 34,
+        "Creneaux": [
+            {
+                "Type": "Cours",
+                "Jour": "1",
+                "HeureD": "12:30",
+                "HeureF": "15:30",
+                "Semaine": "tout"
+            },
+            {
+                "Type": "TP",
+                "Jour": "3",
+                "HeureD": "16:00",
+                "HeureF": "18:00",
+                "Semaine": "B"
+            },
+            {
+                "Type": "TD",
+                "Jour": "3",
+                "HeureD": "16:00",
+                "HeureF": "18:00",
+                "Semaine": "A"
+            }
+        ]
+    },
+    "PIX01": {
+        "nomcomplet": "Comp\u00e9tences num\u00e9riques",
+        "Description": "\u00eatre responsable \u00e0 l'aire du num\u00e9rique / produire, traiter, exploiter et diffuser des documents num\u00e9riques / Organiser la recherche d'informations \u00e0 l'\u00e8re du num\u00e9rique",
+        "Effectif": 92,
+        "Creneaux": [
+            {
+                "Type": "Cours",
+                "Jour": "1",
+                "HeureD": "08:00",
+                "HeureF": "09:00",
+                "Semaine": "tout"
+            },
+            {
+                "Type": "TD",
+                "Jour": "4",
+                "HeureD": "16:00",
+                "HeureF": "18:00",
+                "Semaine": "B"
+            },
+            {
+                "Type": "TP",
+                "Jour": "4",
+                "HeureD": "18:00",
+                "HeureF": "20:00",
+                "Semaine": "B"
+            }
+        ]
+    },
+    "TN01": {
+        "nomcomplet": "Initiation aux objets techniques",
+        "Description": "Repr\u00e9senter un produit / C.A.O / sch\u00e9mas / conna\u00eetre les normes et d\u00e9sigantions des mat\u00e9riaux et alliages essentiellement m\u00e9talliques, ...",
+        "Effectif": 3,
+        "Creneaux": [
+            {
+                "Type": "Cours",
+                "Jour": "1",
+                "HeureD": "10:00",
+                "HeureF": "12:00",
+                "Semaine": "A"
+            },
+            {
+                "Type": "TD",
+                "Jour": "3",
+                "HeureD": "08:00",
+                "HeureF": "11:00",
+                "Semaine": "tout"
+            },
+            {
+                "Type": "TP",
+                "Jour": "5",
+                "HeureD": "10:00",
+                "HeureF": "12:00",
+                "Semaine": "B"
+            }
+        ]
+    },
+    "TN02": {
+        "nomcomplet": "Technologie et initiation au bureau d'\u00e9tudes",
+        "Description": "Analyser, chosiir et mettre en oeuvre les \u00e9l\u00e9ments techniques et fonctions m\u00e9caniques de base n\u00e9cessaires au concepteur m\u00e9canicien",
+        "Effectif": 12,
+        "Creneaux": [
+            {
+                "Type": "TD",
+                "Jour": "2",
+                "HeureD": "10:00",
+                "HeureF": "12:00",
+                "Semaine": "A"
+            },
+            {
+                "Type": "TP",
+                "Jour": "3",
+                "HeureD": "17:00",
+                "HeureF": "20:00",
+                "Semaine": "tout"
+            },
+            {
+                "Type": "Cours",
+                "Jour": "4",
+                "HeureD": "10:00",
+                "HeureF": "12:00",
+                "Semaine": "tout"
+            }
+        ]
+    },
+    "TN04": {
+        "nomcomplet": "Gestion et r\u00e9alisation d\u2019un projet d\u2019ing\u00e9nierie",
+        "Description": "En atelier, la conception et la r\u00e9alisation d'un objet personnel ou impos\u00e9 en bois et /ou en m\u00e9tal n\u00e9cessite rigueur et organisation. Les contraintes de r\u00e9sultat, de temps, de co\u00fbt, d'environnement de travail, ... doivent \u00eatre prises en compte ",
+        "Effectif": 78,
+        "Creneaux": [
+            {
+                "Type": "Cours",
+                "Jour": "2",
+                "HeureD": "08:00",
+                "HeureF": "11:00",
+                "Semaine": "tout"
+            },
+            {
+                "Type": "TP",
+                "Jour": "4",
+                "HeureD": "08:00",
+                "HeureF": "11:14",
+                "Semaine": "B"
+            },
+            {
+                "Type": "TD",
+                "Jour": "4",
+                "HeureD": "17:00",
+                "HeureF": "19:00",
+                "Semaine": "tout"
+            }
+        ]
+    },
+    "EN01": {
+        "nomcomplet": "Elements de base en \u00e9lectronique analogique",
+        "Description": "En ing\u00e9nierie, les cartes \u00e9lectroniques utilisent des composants de base de l\u2019\u00e9lectronique analogique. Leur association permet la r\u00e9alisation de diverses fonctions, telles que l\u2019amplification, le filtrage, la comparaison, le redressement,...",
+        "Effectif": 23,
+        "Creneaux": [
+            {
+                "Type": "Cours",
+                "Jour": "3",
+                "HeureD": "10:00",
+                "HeureF": "12:00",
+                "Semaine": "tout"
+            },
+            {
+                "Type": "TD",
+                "Jour": "4",
+                "HeureD": "08:00",
+                "HeureF": "10:00",
+                "Semaine": "B"
+            },
+            {
+                "Type": "TP",
+                "Jour": "6",
+                "HeureD": "08:00",
+                "HeureF": "12:00",
+                "Semaine": "A"
+            }
+        ]
+    },
+    "PHYS11": {
+        "nomcomplet": "M\u00e9canique du point",
+        "Description": "rep\u00e9rer un objet dans l'espace / mod\u00e9liser un mouvement / connaitre la cause d'un mouvement / ...",
+        "Effectif": 12,
+        "Creneaux": [
+            {
+                "Type": "Cours",
+                "Jour": "2",
+                "HeureD": "10:00",
+                "HeureF": "13:00",
+                "Semaine": "tout"
+            },
+            {
+                "Type": "TD",
+                "Jour": "5",
+                "HeureD": "10:00",
+                "HeureF": "12:00",
+                "Semaine": "tout"
+            },
+            {
+                "Type": "TP",
+                "Jour": "3",
+                "HeureD": "14:00",
+                "HeureF": "19:00",
+                "Semaine": "A"
+            }
+        ]
+    },
+    "PC12": {
+        "nomcomplet": "Physico-chimie de la mati\u00e8re",
+        "Description": "Conna\u00eetre la structure de la mati\u00e8re est essentiel afin de comprendre et expliquer ses propri\u00e9t\u00e9s. Cette UE a pour objectif de donner des bases en physique de la mati\u00e8re afin de faire le lien entre structure atomique et propri\u00e9t\u00e9s physico-chimiques.",
+        "Effectif": 82,
+        "Creneaux": [
+            {
+                "Type": "Cours",
+                "Jour": "2",
+                "HeureD": "10:00",
+                "HeureF": "12:00",
+                "Semaine": "tout"
+            },
+            {
+                "Type": "TD",
+                "Jour": "4",
+                "HeureD": "18:00",
+                "HeureF": "20:00",
+                "Semaine": "tout"
+            },
+            {
+                "Type": "TP",
+                "Jour": "6",
+                "HeureD": "08:00",
+                "HeureF": "10:00",
+                "Semaine": "B"
+            }
+        ]
+    },
+    "MT01": {
+        "nomcomplet": "Analyse 1",
+        "Description": "Conna\u00eetre les concepts li\u00e9s aux fonctions d\u2019une variable r\u00e9elle et d\u00e9velopper le raisonnement scientifique.",
+        "Effectif": 100,
+        "Creneaux": [
+            {
+                "Type": "Cours",
+                "Jour": "1",
+                "HeureD": "08:00",
+                "HeureF": "10:00",
+                "Semaine": "tout"
+            },
+            {
+                "Type": "TD",
+                "Jour": "2",
+                "HeureD": "08:00",
+                "HeureF": "10:00",
+                "Semaine": "tout"
+            }
+        ]
+    },
+    "MT02": {
+        "nomcomplet": "Alg\u00e8bre 1 ert compl\u00e9ments d'analyse",
+        "Description": "Conna\u00eetre diff\u00e9rents concepts de base en alg\u00e8bre et analyse, et d\u00e9velopper le raisonnement scientifique",
+        "Effectif": 5,
+        "Creneaux": [
+            {
+                "Type": "Cours",
+                "Jour": "1",
+                "HeureD": "10:00",
+                "HeureF": "12:00",
+                "Semaine": "tout"
+            },
+            {
+                "Type": "TD",
+                "Jour": "2",
+                "HeureD": "10:00",
+                "HeureF": "12:00",
+                "Semaine": "tout"
+            },
+            {
+                "Type": "TP",
+                "Jour": "3",
+                "HeureD": "10:00",
+                "HeureF": "14:00",
+                "Semaine": "B"
+            }
+        ]
+    },
+    "MT03": {
+        "nomcomplet": "Alg\u00e8bre 2",
+        "Description": "Conna\u00eetre les concepts et les outils li\u00e9s \u00e0 l\u2019alg\u00e8bre lin\u00e9aire et au calcul matriciel, et d\u00e9velopper le raisonnement scientifique.",
+        "Effectif": 4,
+        "Creneaux": [
+            {
+                "Type": "Cours",
+                "Jour": "4",
+                "HeureD": "10:00",
+                "HeureF": "12:00",
+                "Semaine": "tout"
+            },
+            {
+                "Type": "TD",
+                "Jour": "4",
+                "HeureD": "16:00",
+                "HeureF": "18:00",
+                "Semaine": "A"
+            },
+            {
+                "Type": "TP",
+                "Jour": "5",
+                "HeureD": "16:00",
+                "HeureF": "18:00",
+                "Semaine": "A"
+            }
+        ]
+    },
+    "MT04": {
+        "nomcomplet": "Analyse 2",
+        "Description": "Les \u00e9l\u00e9ments \u00e9tudi\u00e9s fournissent le socle n\u00e9cessaire \u00e0 la r\u00e9solution de divers probl\u00e8mes rencontr\u00e9s par l\u2019ing\u00e9nieur (par exemple, mod\u00e9lisation, repr\u00e9sentation multidimensionnelle, optimisation, calcul de grandeurs physiques).",
+        "Effectif": 6,
+        "Creneaux": [
+            {
+                "Type": "Cours",
+                "Jour": "3",
+                "HeureD": "14:00",
+                "HeureF": "18:00",
+                "Semaine": "tout"
+            },
+            {
+                "Type": "TD",
+                "Jour": "3",
+                "HeureD": "12:00",
+                "HeureF": "14:00",
+                "Semaine": "B"
+            },
+            {
+                "Type": "TP",
+                "Jour": "3",
+                "HeureD": "08:00",
+                "HeureF": "10:00",
+                "Semaine": "B"
+            }
+        ]
+    },
+    "MT05": {
+        "nomcomplet": "Analyse avanc\u00e9e",
+        "Description": "Conna\u00eetre diff\u00e9rents concepts de g\u00e9om\u00e9trie, les notions de suites et s\u00e9ries de fonctions, la r\u00e9solution d\u2019\u00e9quations diff\u00e9rentielles, et d\u00e9velopper le raisonnement scientifique..",
+        "Effectif": 7,
+        "Creneaux": [
+            {
+                "Type": "Cours",
+                "Jour": "2",
+                "HeureD": "14:00",
+                "HeureF": "16:00",
+                "Semaine": "tout"
+            },
+            {
+                "Type": "TD",
+                "Jour": "6",
+                "HeureD": "08:00",
+                "HeureF": "11:00",
+                "Semaine": "tout"
+            },
+            {
+                "Type": "TP",
+                "Jour": "1",
+                "HeureD": "10:00",
+                "HeureF": "12:00",
+                "Semaine": "B"
+            }
+        ]
+    },
+    "UE01": {
+        "nomcomplet": "aovav",
+        "Description": "avnaoviova",
+        "Effectif": 23,
+        "Creneaux": [
+            {
+                "Type": "Cours",
+                "Jour": "1",
+                "HeureD": "10:00",
+                "HeureF": "12:00",
+                "Semaine": "A"
+            }
+        ]
+    },
+    "UE02": {
+        "nomcomplet": "ijvoav",
+        "Description": "avuaoiv",
+        "Effectif": 82,
+        "Creneaux": [
+            {
+                "Type": "Cours",
+                "Jour": "1",
+                "HeureD": "10:00",
+                "HeureF": "12:00",
+                "Semaine": "B"
+            }
+        ]
+    },
+    "UE03": {
+        "nomcomplet": "ioav",
+        "Description": "anaovba",
+        "Effectif": 293,
+        "Creneaux": [
+            {
+                "Type": "Cours",
+                "Jour": "2",
+                "HeureD": "16:00",
+                "HeureF": "19:00",
+                "Semaine": "tout"
+            }
+        ]
+    },
+    "UE04": {
+        "nomcomplet": "an",
+        "Description": "aoaiv",
+        "Effectif": 92,
+        "Creneaux": [
+            {
+                "Type": "Cours",
+                "Jour": "2",
+                "HeureD": "18:00",
+                "HeureF": "19:00",
+                "Semaine": "tout"
+            }
+        ]
+    },
+    "UE05": {
+        "nomcomplet": "ouazv",
+        "Description": "vaova",
+        "Effectif": 3278,
+        "Creneaux": [
+            {
+                "Type": "Cours",
+                "Jour": "2",
+                "HeureD": "18:00",
+                "HeureF": "19:00",
+                "Semaine": "tout"
+            }
+        ]
+    },
+    "NF16": {
+        "nomcomplet": "gestion de bases de donn\u00e9es",
+        "Description": "Cette UE nous apprend \u00e0 g\u00e9rer des bases de donn\u00e9es dans le langage SQL",
+        "Effectif": 50,
+        "Creneaux": [
+            {
+                "Type": "Cours",
+                "Jour": "1",
+                "HeureD": "18:00",
+                "HeureF": "19:00",
+                "Semaine": "A"
+            }
+        ]
+    }
+}
